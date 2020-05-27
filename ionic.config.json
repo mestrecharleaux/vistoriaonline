@@ -1,0 +1,8 @@
+{
+  "name": "vistoriaonine",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
